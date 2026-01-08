@@ -3,7 +3,7 @@
 This project presents a comparative analysis of missing data imputation models for multidimensional Skyline queries. Specifically, it evaluates the performance and accuracy of three machine learning–based imputation approaches — **Random Forest**, **XGBoost**, and **CatBoost** — on incomplete datasets to improve Skyline query quality and robustness.
 
 <p align="center">
-  <img src="images/(full paper)LS146-Notification of Acceptance-TechDev2025.pdf" width="600" alt="Certification">
+  <img src="images/LS146-Notification of Acceptance-TechDev2025.png" width="600" alt="Certification">
 </p>
 
 
